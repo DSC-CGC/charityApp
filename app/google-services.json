@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "880884925795",
+    "firebase_url": "https://dream-939ab.firebaseio.com",
+    "project_id": "dream-939ab",
+    "storage_bucket": "dream-939ab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:880884925795:android:a11472dbc6e000ee793f56",
+        "android_client_info": {
+          "package_name": "com.example.dream"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "880884925795-b0ih8cni222oecbgdvfbsnkp0ob61gh4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dream",
+            "certificate_hash": "884393b21ab1e002d5ed22a7278579d095b131ca"
+          }
+        },
+        {
+          "client_id": "880884925795-17jjmlidrlrl1ddu4vksachrmembljoh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dream",
+            "certificate_hash": "825a240305637db9a63e0d7a878f41fffcde1203"
+          }
+        },
+        {
+          "client_id": "880884925795-8n6bddba9665k2h35634mi85g0gfti32.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvvrOXcrMYLIzELzhx6yJOnzr047rZ6NM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "880884925795-8n6bddba9665k2h35634mi85g0gfti32.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
